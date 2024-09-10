@@ -1,0 +1,13 @@
+.registration-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button{
+    background: red;
+    color:white;
+    width: 180px;
+    border: none;
+    border-radius: 3px;
+}
